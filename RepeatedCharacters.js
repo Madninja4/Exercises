@@ -11,4 +11,4 @@ function showMostRepeatedChar(str) {
 }
 string = "BB  BB  d    gdes w  ";
 console.log(showMostRepeatedChar(string));
-//TO DO: Make it so this does not recognize empty spaces as Chars //DONE
+//TO DO: Make it so this does not recognize empty spaces as Chars DONE
